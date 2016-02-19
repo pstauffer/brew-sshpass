@@ -9,7 +9,7 @@ It's a noninteractive ssh password provider. I use it in some use-cases with [An
 The package can be installed via [brew](http://brew.sh/).
 Use this command to install `sshpass` on your macosx.
 ```
-brew install https://github.com/pstauffer/brew-sshpass/sshpass.rb
+brew install https://raw.githubusercontent.com/pstauffer/brew-sshpass/master/sshpass.rb
 ```
 
 ## Source Package

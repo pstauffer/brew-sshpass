@@ -12,10 +12,14 @@ Use this command to install `sshpass` on your macosx.
 brew install https://raw.githubusercontent.com/pstauffer/brew-sshpass/master/sshpass.rb
 ```
 
-## Source Package
-[Source URL](https://sourceforge.net/projects/sshpass/files/sshpass/1.05/)
+## Source Repo
+[Source URL](https://sourceforge.net/projects/sshpass/files/sshpass)
 
-Version: `1.0.5`
+Version: `1.06`
 
 ## Build
-[Formula Cookbook](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Formula-Cookbook.md)
+```
+brew create https://netix.dl.sourceforge.net/project/sshpass/sshpass/1.06/sshpass-1.06.tar.gz --force
+```
+
+[Brew Formula Cookbook](https://github.com/Homebrew/brew/blob/master/docs/Formula-Cookbook.md)
